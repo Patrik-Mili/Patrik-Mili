@@ -6,7 +6,7 @@
 
 Career changer. I spent five years running my own personal training business in the UK.
 I then completed a full-time cybersecurity programme with Newto Training (Nov 2025 – Oct 2026).
-My work so far is defensive, with offensive security as my goal.
+My lab work focuses on detection, investigation and vulnerability remediation.
 
 ## Certifications
 
